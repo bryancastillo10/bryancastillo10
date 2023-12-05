@@ -1,4 +1,4 @@
-### Hi there 👋 I am Bryan Castillohttps://github.com/bryancastillo10/bryancastillo10/blob/main/README.md
+### Hi there 👋 I am Bryan Castillo
 
 I am currently a researcher in the field of environmental science and molecular biology upskilling in the tech industry.
 
