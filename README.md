@@ -1,18 +1,14 @@
-### Hi there 👋 I am Bryan Castillo
+###Hi there 👋 I am Bryan Castillo
 
 I am currently a researcher in the field of environmental science and molecular biology upskilling in the tech industry.
 
-###Tools that I can Utilize:
+### Tools that I can Utilize:
 
-### Web Development:  
+#### Web Development:
 
-
-
-
-
-**bryancastillo10/bryancastillo10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+![HTML5 Badge](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23D55E00&labelColor=white)
+![CSS Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -22,4 +18,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
