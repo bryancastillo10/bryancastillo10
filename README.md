@@ -1,4 +1,4 @@
-###Hi there 👋 I am Bryan Castillo
+### Hi there 👋 I am Bryan Castillo
 
 I am currently a researcher in the field of environmental science and molecular biology upskilling in the tech industry.
 
