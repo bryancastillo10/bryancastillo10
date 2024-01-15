@@ -24,7 +24,7 @@ I am currently a researcher in the field of environmental science and molecular 
 
 - 🔭 I’m currently working at a research institute in Taiwan
 - 🌱 I’m currently learning Bioinformatics and Machine Learning
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with pursuing a career in the tech industry
 - 💬 Ask me about data analysis in the field of biology, chemistry, or environmental microbiology
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: bryan.angelocastillo.10@gmail.com
+- ⚡ Fun fact: I love playing acoustic guitar and travelling around
