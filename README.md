@@ -11,9 +11,9 @@ I am currently a researcher in the field of environmental science and molecular 
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&labelColor=%23212121)
 ![Static Badge](https://img.shields.io/badge/Streamlit-%23FF4B4B?style=for-the-badge&logo=streamlit&labelColor=%23212121&color=%23D61838)
 ![Static Badge](https://img.shields.io/badge/Flask-%23000000?style=for-the-badge&logo=flask&labelColor=%23648FFF&color=%23212121)
-![Static Badge](https://img.shields.io/badge/React-%23252423?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Static Badge](https://img.shields.io/badge/TailWind-%23252423?style=flat-square&logo=tailwindcss&logoColor=%2306B6D4)
-![Static Badge](https://img.shields.io/badge/TypeScript-%23f6f6f6?style=flat-square&logo=typescript&logoColor=%233178C6)
+![Static Badge](https://img.shields.io/badge/React-%23252423?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Static Badge](https://img.shields.io/badge/TailWind-%23252423?style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4)
+![Static Badge](https://img.shields.io/badge/TypeScript-%23f6f6f6?style=for-the-badge&logo=typescript&logoColor=%233178C6)
 
 
 #### GUI Development:
