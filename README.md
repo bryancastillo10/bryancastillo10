@@ -26,8 +26,10 @@ I am currently a researcher in the field of environmental science and molecular 
 ![Static Badge](https://img.shields.io/badge/SQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=%23212121&labelColor=%23ADB1B3&color=%23FDC850)
 
 - 🔭 I’m currently working at a research institute in Taiwan
-- 🌱 I’m currently learning more in-depth in Data Analysis Tools
+- 🌱 I’m currently learning more in-depth about Web Development (planning to pursue Frontend Web Development first)
 - 🤔 I’m looking for help with pursuing a career in the tech industry
 - 💬 Ask me about data analysis in the field of biology, chemistry, or environmental microbiology
 - 📫 How to reach me: bryan.angelocastillo.10@gmail.com
 - ⚡ Fun fact: I love playing acoustic guitar and travelling around
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryancastillo10&layout=pie&show_icons=true&theme=tokyonight)](https://github.com/bryancastillo10/github-readme-stats)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bryancastillo10&repo=anaerodash&theme=tokyonight)](https://github.com/bryancastillo10/github-readme-stats)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bryancastillo10&repo=BioBytes-PairSync&theme=tokyonight)](https://github.com/bryancastillo10/github-readme-stats)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bryancastillo10&repo=co2-emissions-analysis&theme=tokyonight)](https://github.com/bryancastillo10/github-readme-stats)
