@@ -23,7 +23,7 @@
 - 🌱 I'm currently learning: ** Exploring Advanced Typescript Techniques💡**
 - 💬 Ask me about: ** Javascript, Python, Environmental Science🫡**
 - ⚡ Fun fact: **I also love playing musical instruments such as acoustic guitar and violin 🎸🎻**
-- 📂 Portfolio: **<a href="bryanium.dev" target="_blank">bryanium.dev</a>**
+- 📂 Portfolio: **<a href="www.bryanium.dev">bryanium.dev</a>**
 
  **<h3 align="left">Skills</h3>**
 
