@@ -1,35 +1,46 @@
-### Hi there 👋 I am Bryan Castillo
+![Hi! 👋 I'm Bryan Castillo🖥️⚛️](https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif)
 
-I am currently a researcher in the field of environmental science and molecular biology upskilling in the tech industry.
+![Profile views](https://komarev.com/ghpvc/?username=bryancastillo10&label=Profile%20views&color=0e75b6&style=flat)
 
-### Top Technologies:
+<div id="toc">
+  <ul align="left" style="list-style: none">
+    <summary>
+      <h1>
+        Hi! 👋 I'm Bryan Castillo🖥️⚛️
+      </h1>
+    </summary>
+  </ul>
+</div>
 
-#### Web Development:
+**<h3 align="left">Connect with me:</h3>** 
+<p align="left"><a href="https://www.linkedin.com/in/https://www.linkedin.com/in/bryan-castillo-479101171/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.instagram.com/https://www.instagram.com/brybryanium/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.facebook.com/https://www.facebook.com/scientistbryan" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=plastic&logo=facebook&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
-![HTML5 Badge](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23D55E00&labelColor=white)
-![Static Badge](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&labelColor=%230072B2&color=%23212121)
-![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&labelColor=%23212121)
-![Static Badge](https://img.shields.io/badge/React-%23252423?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Static Badge](https://img.shields.io/badge/TailWind-%23252423?style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4)
-![Static Badge](https://img.shields.io/badge/TypeScript-%23f6f6f6?style=for-the-badge&logo=typescript&logoColor=%233178C6)
-![Static Badge](https://img.shields.io/badge/Streamlit-%23FF4B4B?style=for-the-badge&logo=streamlit&labelColor=%23212121&color=%23D61838)
-![Static Badge](https://img.shields.io/badge/Flask-%23000000?style=for-the-badge&logo=flask&labelColor=%23648FFF&color=%23212121)
+ **<h3 align="left">Software developer with passion integrating my knowledge in natural sciences (envi, biology, and chemistry). My tech projects includes full-stack web development , GUI desktop development, and data analysis on the bioinformatics field. I am currently focused on enhancing my skills both on the Javascript and Python programming language.</h3>**
 
-#### GUI Development:
+**<h3 align="left">Rapid Fire</h3>**
 
-![Static Badge](https://img.shields.io/badge/PyQt-%2341CD52?style=for-the-badge&logo=Qt&labelColor=%23212121&color=%23117733)
+- 💼 I'm currently working on: **💻 Developing a full-stack consultation app on React-Typescript with NodeTS Prisma stack**
+- 🌱 I'm currently learning: ** Exploring Advanced Typescript Techniques💡**
+- 💬 Ask me about: ** Javascript, Python, Environmental Science🫡**
+- ⚡ Fun fact: **I also love playing musical instruments such as acoustic guitar and violin 🎸🎻**
+- 📂 Portfolio: **<a href="bryanium.dev" target="_blank">bryanium.dev</a>**
 
-#### Bioinformatics:
+ **<h3 align="left">Skills</h3>**
 
-![Static Badge](https://img.shields.io/badge/-%23276DC3?style=for-the-badge&logo=r&logoColor=%2356B4E9&color=%23212121)
-![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=%2356B4E9&labelColor=%23212121&color=%23F0E442)
-![Static Badge](https://img.shields.io/badge/SQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=%23212121&labelColor=%23ADB1B3&color=%23FDC850)
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://skillicons.dev/icons?i=python" height="32" alt="Python" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=javascript" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=typescript" height="32" alt="TypeScript" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=react" height="32" alt="React" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=tailwind" height="32" alt="Tailwind CSS" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=vite" height="32" alt="Vite" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=redux" height="32" alt="Redux" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=mongodb" height="32" alt="MongoDB" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=postgresql" height="32" alt="PostgreSQL" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=vscode" height="32" alt="VSCode" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=notion" height="32" alt="Notion" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=postman" height="32" alt="Postman" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=figma" height="32" alt="Figma" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=nodejs" height="32" alt="Node.js" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=flask" height="32" alt="Flask" style="margin-right: 4px"></div>
 
-- 🔭 I’m currently working at a research institute in Taiwan
-- 🌱 I have experience on React/ React-Native development and full stack applications with MERN,React/Flask, or Next JS
-- 🤔 I’m looking for collaboration projects or open source contributions to enhance my skills
-- 💬 Ask me about frontend development (React framework) and backend development with Node JS. I also have some fundamental knowledge on data analysis/machine learning with Python
-- 📫 How to reach me: bryan.angelocastillo.10@gmail.com
-- ⚡ Fun fact: I love playing acoustic guitar and travelling around
+ **<h3 align="left">GitHub Stats</h3>**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryancastillo10&layout=pie&show_icons=true&theme=tokyonight)](https://github.com/bryancastillo10/github-readme-stats)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bryancastillo10&repo=anaerodash&theme=tokyonight)](https://github.com/bryancastillo10/github-readme-stats)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bryancastillo10&repo=BioBytes-PairSync&theme=tokyonight)](https://github.com/bryancastillo10/github-readme-stats)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bryancastillo10&repo=co2-emissions-analysis&theme=tokyonight)](https://github.com/bryancastillo10/github-readme-stats)
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bryancastillo10&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=bryancastillo10&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
+</p>
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=bryancastillo10&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=bryancastillo10&repo=BioBytes-PairSync&bg_color=E0F5F0%2C12A594%2C0072B2&show_owner=true&title_color=f4f3f2&text_color=f4f3f2&icon_color=f4f3f2&theme=default&border_radius=5" alt="GitHub repo-card Card" />
+</p>
+
+ **<h3 align="left">Support Me</h3>**
+
+<p align="left"><a href="https://paypal.me/https://www.paypal.com/paypalme/BryanAngeloCastillo" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="36" style="margin-right: 4px"></a></p>
