@@ -19,11 +19,11 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Developing a full-stack consultation app on React-Typescript with NodeTS Prisma stack**
-- 🌱 I'm currently learning: ** Exploring Advanced Typescript Techniques💡**
+- 💼 I'm currently working: **💻 Bioinformatics Small  Project: ChemBL Data Retrieval and Pharmacokinetics Analysis**
+- 🌱 I'm currently learning: ** Python Bioinformatics Libraries💡**
 - 💬 Ask me about: ** Javascript, Python, Environmental Science🫡**
 - ⚡ Fun fact: **I also love playing musical instruments such as acoustic guitar and violin 🎸🎻**
-- 📂 Portfolio: **<a href="www.bryanium.dev">bryanium.dev</a>**
+- 📂 Portfolio: **<a href="https://www.bryanium.dev">bryanium.dev</a>**
 
  **<h3 align="left">Skills</h3>**
 
