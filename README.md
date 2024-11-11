@@ -19,8 +19,8 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working: **💻 Bioinformatics Small  Project: ChemBL Data Retrieval and Pharmacokinetics Analysis**
-- 🌱 I'm currently learning: ** Python Bioinformatics Libraries💡**
+- 💼 I'm currently working: **💻 Team Project of AI integrated Mobile Application in React-Native Expo Stack**
+- 🌱 I'm currently learning: ** GoLang for Web Server Application & Chakra UI Library for Frontend Layout & Styling💡**
 - 💬 Ask me about: ** Javascript, Python, Environmental Science🫡**
 - ⚡ Fun fact: **I also love playing musical instruments such as acoustic guitar and violin 🎸🎻**
 - 📂 Portfolio: **<a href="https://www.bryanium.dev">bryanium.dev</a>**
